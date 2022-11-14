@@ -1,4 +1,4 @@
-import visa from '../assets/visa.png';
+import visa from '../../assets/visa.png';
 
 const Subscriber = () => {
     return <section id="subscribe" className='bg-thirdBg h-[520px] lg:max-w-[520px]'>

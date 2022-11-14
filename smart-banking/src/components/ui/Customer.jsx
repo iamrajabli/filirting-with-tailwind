@@ -1,7 +1,7 @@
 
-import card from '../assets/card.png';
-import g1 from '../assets/g1.png';
-import g2 from '../assets/g2.png';
+import card from '../../assets/card.png';
+import g1 from '../../assets/g1.png';
+import g2 from '../../assets/g2.png';
 
 const Customer = ({ customers }) => {
     return (

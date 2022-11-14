@@ -1,6 +1,6 @@
 import { BiMenu } from 'react-icons/bi';
 import { HiOutlineShoppingBag } from 'react-icons/hi';
-import logo from '../assets/besnik.png';
+import logo from '../../assets/besnik.png';
 
 const Header = ({ menu }) => {
     return (

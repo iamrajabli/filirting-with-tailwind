@@ -1,4 +1,4 @@
-import headerCard from '../assets/header-card.png';
+import headerCard from '../../assets/header-card.png';
 import { BsArrowRight } from 'react-icons/bs';
 
 const Hero = () => {

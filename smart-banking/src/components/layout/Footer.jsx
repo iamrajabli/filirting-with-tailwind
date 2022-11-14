@@ -1,5 +1,5 @@
 import { GrFacebookOption, GrInstagram, GrYoutube } from 'react-icons/gr';
-import logo from '../assets/besnik.png';
+import logo from '../../assets/Besnik.png';
 
 
 const Footer = ({ menu }) => {
