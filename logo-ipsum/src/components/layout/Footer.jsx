@@ -1,4 +1,4 @@
-import footer from './assets/footer.svg';
+import footer from '../../assets/footer.svg';
 
 const Footer = ({ menu }) => {
     return (
